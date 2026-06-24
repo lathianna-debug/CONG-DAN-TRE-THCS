@@ -1,0 +1,6 @@
+{
+  "name": "Cong Dan Tre THCS",
+  "description": "Sân chơi học tập, trắc nghiệm và rèn luyện đạo đức dành riêng cho học sinh THCS tích hợp Trợ lý AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
